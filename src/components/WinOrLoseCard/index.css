@@ -1,0 +1,45 @@
+/* Write your code here. */
+.winOrLose {
+  display: flex;
+  background-color: #ffffff5d;
+  border-radius: 10px;
+  width: 80vw;
+  margin: 100px;
+  justify-content: space-between;
+  padding: 100px;
+}
+.win-or-lose-image {
+  padding: 20px;
+  margin: 20px;
+  width: 30vw;
+}
+.winOrLose-button {
+  background-color: #ffce27;
+  border: 0px solid;
+  border-radius: 10px;
+}
+.blue {
+  color: #6a59ff;
+  font-size: 30px;
+  font-weight: 500;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+
+}
+.winOrLose-text-container {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 20vh;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+  margin: 20px;
+  width: 100vw;
+}

@@ -1,0 +1,15 @@
+/* Write your code here. */
+
+.body {
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+.emoji-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

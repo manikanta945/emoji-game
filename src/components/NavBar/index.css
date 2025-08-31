@@ -1,0 +1,31 @@
+/* Write your code here. */
+.head {
+  background-color: #9796f0;
+}
+.logo-name {
+  display: flex;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.head {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+}
+.score-totalScore {
+  height: 50px;
+  width: 170px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.Score-container{
+  display: flex;
+ justify-content: space-between;
+ width: 24vw;
+ color: white;
+ padding-right: 50px;
+}
